@@ -14,7 +14,6 @@ def task() -> None:
 
 
 if __name__ == '__main__':
-    # Нужно для проверки
     task()
 
     with open(OUTPUT_FILENAME) as output_f:
